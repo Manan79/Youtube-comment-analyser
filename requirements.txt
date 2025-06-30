@@ -1,0 +1,12 @@
+pandas
+matplotlib
+scikit-learn
+streamlit
+numpy
+joblib
+pytube
+requests
+plotly
+nltk
+re
+langdetect
