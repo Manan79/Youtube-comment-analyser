@@ -8,5 +8,5 @@ pytube
 requests
 plotly
 nltk
-re
+
 langdetect
