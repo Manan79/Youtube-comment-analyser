@@ -10,3 +10,4 @@ plotly
 nltk
 google-api-python-client
 langdetect
+seaborn
