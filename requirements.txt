@@ -8,5 +8,5 @@ pytube
 requests
 plotly
 nltk
-googleapiclient
+google-api-python-client
 langdetect
